@@ -66,6 +66,7 @@ h1 {
 .library .library__content {
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 .library .library__button{
