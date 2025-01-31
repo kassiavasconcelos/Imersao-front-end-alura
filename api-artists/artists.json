@@ -1,0 +1,58 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Foo Fighters",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "genre": "Pop",
+        "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+      },
+      {
+        "id": 3,
+        "name": "Five Finger Death Punch",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab676161000051741e7f796a17c2dc3c28bdeeb9"
+      },
+      {
+        "id": 4,
+        "name": "Chitãozinho e Xororó",
+        "genre": "Sertanejo",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+      },
+      {
+        "id": 5,
+        "name": "Metallica",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44"
+      },
+      {
+        "id": 6,
+        "name": "Machine Head",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174d823e6b1cf48849e8413554e"
+      },
+      {
+        "id": 7,
+        "name": "Stone Temple Pilots",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab676161000051744bb64f87db255d76538b905f"
+      },
+      {
+        "id": 8,
+        "name": "AC/DC",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174c4c77549095c86acb4e77b37"
+      },
+      {
+        "id": 9,
+        "name": "Bring Me The Horizon",
+        "genre": "Rock",
+        "urlImg": "https://i.scdn.co/image/ab67616100005174e7c9399d0b5d813c20cbec65"
+      }
+    ]
+  }
